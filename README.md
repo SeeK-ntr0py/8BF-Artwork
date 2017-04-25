@@ -1,5 +1,6 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=YEY9LNR57GANW&lc=US&item_name=seek%2dntr0py%20Github%20Projects&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted)
-**8BF-Artwork**
+
+**8-Bit Fingers game launcher artwork**
 ================================================
 
 [8-Bit Fingers](https://github.com/SeeK-ntr0py.org/8BF-Artwork) is a set of artwork designed for use with HTPC emulation / game launchers.
