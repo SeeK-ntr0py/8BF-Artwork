@@ -23,35 +23,35 @@ Original pixel art game controller icons by Rancor.
 ## Features
 
 Completed icons:
-	- Arcade / MAME (Hori RAP stick)
-	- Apple ][
-	- MS-DOS (Gravis Gamepad)
-	- NES
-	- Game Boy
-	- Super NES (US)
-	- Super Famicom (JP)
-	- Ninteno 64
-	- Nintendo GameCube
-	- Nintendo Game Boy Advance
-	- Nintendo Wii
-	- PlayStation (PSX)
-	- PlayStation Portable (two versions)
-	- TurboGrafx-16
+- Arcade / MAME (Hori RAP stick)
+- Apple ][
+- MS-DOS (Gravis Gamepad)
+- NES
+- Game Boy
+- Super NES (US)
+- Super Famicom (JP)
+- Ninteno 64
+- Nintendo GameCube
+- Nintendo Game Boy Advance
+- Nintendo Wii
+- PlayStation (PSX)
+- PlayStation Portable (two versions)
+- TurboGrafx-16
 
 
 
 ## ToDo
 
 Planned:
-	- Sega Master System
-	- Sega Mega Drive / Genesis (at least one version)
-	- Dualshock 2
-	- Dualshock 3
-	- Dualshock 4
-	- Atari 2600
-	- Steam Controller
-	- Atari Lynx
-	- 
+- Sega Master System
+- Sega Mega Drive / Genesis (at least one version)
+- Dualshock 2
+- Dualshock 3
+- Dualshock 4
+- Atari 2600
+- Steam Controller
+- Atari Lynx
+ 
 	
 
 
@@ -66,9 +66,9 @@ These images are licensed under [Creative Commons Attribution-NonCommercial-NoDe
 ## Contact
 
 Contact the artist on 
-	[github](https://github.com/SeeK-ntr0py.org/8BF-Artwork)
-	[deviantart](http://gfball84887.deviantart.com/)
-	[email Rancor@ntr0py.org](mailto:rancor@ntr0py.org)
+- [github](https://github.com/SeeK-ntr0py.org/8BF-Artwork)
+- [deviantart](http://gfball84887.deviantart.com/)
+- [email Rancor@ntr0py.org](mailto:rancor@ntr0py.org)
 
 
 ## Donating
