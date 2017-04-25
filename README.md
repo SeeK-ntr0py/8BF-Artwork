@@ -49,8 +49,7 @@ Completed icons:
 Planned:
 - Sega Master System
 - Sega Mega Drive / Genesis (at least one version)
-- Dualshock 2
-- Dualshock 3
+- Dualshock 2/3
 - Dualshock 4
 - Atari 2600
 - Steam Controller
@@ -70,7 +69,7 @@ These images are licensed under [Creative Commons Attribution-NonCommercial-NoDe
 ## Contact
 
 Contact the artist on 
-- [github](https://github.com/SeeK-ntr0py.org/8BF-Artwork)
+- [github](https://github.com/Rancor21/8BF-Artwork)
 - [deviantart](http://gfball84887.deviantart.com/)
 - [email Rancor@ntr0py.org](mailto:rancor@ntr0py.org)
 
